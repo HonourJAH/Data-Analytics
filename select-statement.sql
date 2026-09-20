@@ -17,3 +17,4 @@ SELECT DISTINCT gender, last_name
 FROM parks_and_recreation.employee_demographics;
 
 # SQL follows PEMDAS: parenthesis, exponent, multiplication, division, addition, substraction
+
